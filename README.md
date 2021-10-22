@@ -28,9 +28,7 @@
   <a href="https://docs.google.com/presentation/d/1mjo06Ps3nmK_eUBHMNNHLaPGK43EGr61I08hHqdsSU4/edit#slide=id.g251d9112ad_1_0">Link for ppt </a>
 
 ## Youtube video Link:
-  <a href="">Link for video </a>
-
-
+  <a href="https://drive.google.com/file/d/1s7xi-PHPh9wE2yMKnszZPvNSyVcRqroV/view">Link for video </a>
 ## Technology Stack:
   1) Google speech API
   2) Arduino IDE
@@ -46,7 +44,7 @@
 Team Name: KRYPTONITES
 
 * [Praveen Saraswat](https://github.com/SaraswatPraveen)
-* [Ravi kumar]()
+* [Ravi kumar](https://gist.github.com/raviraj1630)
 
 ## WOW-FACTORS:
   1) Desktop and LED notification on NODEMCU when command is given
