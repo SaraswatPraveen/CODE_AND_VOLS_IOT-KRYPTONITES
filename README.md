@@ -10,8 +10,6 @@
     with help of internet.Generally it has many user control means 
     access to trusted individual which leads to save Time and Energy also.
 
-
-
 ## Prerequisite
   1) Python 3+ should be install
   3) nodeMCU(HARDWARE)
@@ -27,8 +25,11 @@
 ## Presentation Link:
   <a href="https://docs.google.com/presentation/d/1mjo06Ps3nmK_eUBHMNNHLaPGK43EGr61I08hHqdsSU4/edit#slide=id.g251d9112ad_1_0">Link for ppt </a>
 
-## Youtube video Link:
+## SIMULATION video Link:
   <a href="https://drive.google.com/file/d/1s7xi-PHPh9wE2yMKnszZPvNSyVcRqroV/view">Link for video </a>
+
+## PPT VIDEO LINK
+  <a href="https://drive.google.com/file/d/1BLhkstQEOtDQQN8o7nc9BJ_HJqduTK-f/view">Link for video </a>
 ## Technology Stack:
   1) Google speech API
   2) Arduino IDE
